@@ -1,7 +1,3 @@
-# OreRestaurant-apCreating a professional and enterprise-grade README file for your Django project involves several sections that explain the project, its setup, usage, and any additional information that would be helpful for collaborators, stakeholders, or users. Below is a template that you can customize based on the specifics of your project.
-
----
-
 # OreRestaurant
 
 ## Overview
@@ -152,9 +148,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or issues, please contact:
 
 - **Chukwuemeka Chinemelu**
-- **Email:** your-email@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
-
----
-
-This README template should provide a solid foundation for your project's documentation, covering all necessary aspects for both developers and users. Feel free to adjust any sections to better fit the specifics of your project.
+- **Email:** chukwuemekachinemeluj@gmail.com
+- **GitHub:** [joemickie](https://github.com/joemickie)
