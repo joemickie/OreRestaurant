@@ -49,7 +49,7 @@ OreRestaurant is a Django-based web application designed to manage a restaurant'
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/OreRestaurant.git
+   git clone https://github.com/joemickie/OreRestaurant.git
    cd OreRestaurant
    ```
 
@@ -69,10 +69,10 @@ OreRestaurant is a Django-based web application designed to manage a restaurant'
 Create a `.env` file in the root directory of your project and configure the following variables:
 
 ```bash
-SECRET_KEY="h0h-8yzw)1u+h3ezxvx*!6xhqlh!wya1u6h_14fb&#7-*zuum&"
+SECRET_KEY="your_key"
 DEBUG=False
 ALLOWED_HOSTS=localhost,127.0.0.1
-DATABASE_URL="postgres://postgres:Mickiejoe#@localhost:5432/orerestaurant"
+DATABASE_URL="your_database_url"
 ```
 
 ### Database Setup
